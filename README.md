@@ -15,7 +15,7 @@ This project is a web application built with React and Mantine that processes an
 1. **Clone the repository:**
    
    ```sh
-   git clone https://github.com/your-username/agriculture-analytics.git  
+   git clone https://github.com/your-username/Manufac_Analytics.git
    cd agriculture-analytics
    ```
    
